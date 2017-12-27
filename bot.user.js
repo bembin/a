@@ -6,11 +6,11 @@ file, You can obtain one at http://mozilla.org/MPL/2.0/.
  */
 // ==UserScript==
 // @name         jb sesio
-// @namespace    https://getcoinfree.com/games/bitslither/play
+// @namespace    https://getcoinfree.com/games/bitslither/play/
 // @version      1.2.9
 // @description  Slither.io bot
 // @author       Ermiya Eskandary & Théophile Cailliau
-// @match        https://getcoinfree.com/games/bitslither/play
+// @match        https://getcoinfree.com/games/bitslither/play/
 // @grant        none
 // ==/UserScript==
 
