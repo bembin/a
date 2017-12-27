@@ -5,12 +5,12 @@ License, v. 2.0. If a copy of the MPL was not distributed with this
 file, You can obtain one at http://mozilla.org/MPL/2.0/.
  */
 // ==UserScript==
-// @name         Slither.io-bot
-// @namespace    http://slither.io/
-// @version      1.2.9
+// @name         
+// @namespace    https://getcoinfree.com/games/bitslither/play/
+// @version      
 // @description  Slither.io bot
 // @author       Ermiya Eskandary & Théophile Cailliau
-// @match        http://slither.io/
+// @match        https://getcoinfree.com/games/bitslither/play/
 // @grant        none
 // ==/UserScript==
 
